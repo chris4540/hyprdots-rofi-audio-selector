@@ -9,10 +9,17 @@ This repository contains the scripts to create a rofi dmenu for help selecting t
 
 It is assumed that you have installed hyprdots and the dependencies.
 
+## Demo
+
+![Demo image](asset/rofi-audio-selector-demo.png)
 
 ## Installation
 
-These scripts is primary for the Windows Arch Linux, but others distro should be fine.
+These scripts is primary for the Arch Linux with the installed hyprdot files, but others distro should be fine as long as these commands are available:
+
+1. hyprctl
+2. rofi
+3. notify-send
 
 ### Run the installation script
 
