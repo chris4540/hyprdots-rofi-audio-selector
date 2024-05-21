@@ -33,6 +33,10 @@ These scripts is primary for the Arch Linux with the installed hyprdot files, bu
 - extra/hyprland
 - extra/libnotify
 
+## TODO
+- [ ] Write the installation and uninstallation script
+- [ ] Document how to integrate with waybar (under hyprdot)
+- [ ] Add source and sink option to the script
 
 ## References
 1. [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots)
