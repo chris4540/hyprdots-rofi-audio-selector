@@ -1,4 +1,4 @@
-# rofi-audio-selector
+# hyprdots-rofi-audio-selector
 
 A set of scripts for selecting PulseAudio audio source and sink with [hyprdots](https://github.com/prasanthrangan/hyprdots) (the popular dot file collection for hyprland)
 
