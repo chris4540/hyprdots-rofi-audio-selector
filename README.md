@@ -1,6 +1,6 @@
 # rofi-audio-selector
 
-A set of scripts for selecting PulseAudio audio source and sink with hyprdot (the popular dot file collection for hyprland)
+A set of scripts for selecting PulseAudio audio source and sink with [hyprdots](https://github.com/prasanthrangan/hyprdots) (the popular dot file collection for hyprland)
 
 
 ## Introduction
@@ -37,6 +37,7 @@ These scripts is primary for the Arch Linux with the installed hyprdot files, bu
 - [ ] Write the installation and uninstallation script
 - [ ] Document how to integrate with waybar (under hyprdot)
 - [ ] Add source and sink option to the script
+- [ ] Clean up the script
 
 ## References
 1. [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots)
