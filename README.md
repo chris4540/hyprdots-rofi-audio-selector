@@ -5,7 +5,10 @@ A set of scripts for selecting PulseAudio audio source and sink with Hyprland an
 
 ## Introduction
 
-This repository contains the script to create a rofi dmenu for help selecting the audio input and output.
+This repository contains the scripts to create a rofi dmenu for help selecting the audio input and output.
+
+It is assumed that you have installed hyprdots and the dependencies.
+
 
 ## Installation
 
