@@ -1,11 +1,11 @@
 # rofi-audio-selector
 
-A set of scripts for selecting PulseAudio audio source and sink with Hyprland and waybar.
+A set of scripts for selecting PulseAudio audio source and sink with hyprdot (the popular dot file collection for hyprland)
 
 
 ## Introduction
 
-This repository contains the scripts to create a rofi dmenu for help selecting the audio input and output.
+This repository contains the scripts to create a rofi dmenu for selecting the audio input and output.
 
 It is assumed that you have installed hyprdots and the dependencies.
 
